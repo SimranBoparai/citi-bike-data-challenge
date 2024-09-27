@@ -1,6 +1,6 @@
 # Citi Bike Tableau Challenge 
 
-Link to Tableau Public: 
+Link to Tableau Public: https://public.tableau.com/views/BikeChallengeTableau/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Table of Contents
 
@@ -38,7 +38,7 @@ For the Citi Bike Tableau Challenge, ensure you complete the following requ
 - Install the Pandas and Numpy libraries
 
 ## Windows Installation Process
-- Open your terminal or command prompt and run the following commands:
+Open your terminal or command prompt and run the following commands:
 
   ``` 
      pip install pandas
@@ -64,12 +64,12 @@ git push origin main
 
 # Repository Structure
 ```- citi-bike-tableau-challenge
-- citi-bike-data-challenge
-    - images                      
+- citi-bike-data-challenge                      
     - Resources    
         - cleaned_JC-202307-citibike-trip_data
         - JC-202307-citibike-tripdata            
-    - .gitignore                
+    - .gitignore   
+    - bike-challenge-tableau-workbook             
     - citibike_datacleaning.ipynb    
     - analysis                    
     - README.md                 
